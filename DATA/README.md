@@ -1,2 +1,7 @@
-# Data Folder
-This folder contains raw and cleaned datasets used in the project.
+# Data
+
+Contains raw and processed datasets used in the project.
+
+- Raw data
+- Cleaned data
+- External datasets
